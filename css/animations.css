@@ -1,0 +1,12 @@
+a.animation {
+	background-color:orange;
+	transition-property:background;
+	transition-property:padding;
+	transition-duration:1s;
+	padding:4px;
+}
+
+a.animation:hover {
+	background-color:blue;
+	padding:50px;
+}
